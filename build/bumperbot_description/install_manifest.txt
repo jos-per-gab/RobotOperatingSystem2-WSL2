@@ -3,6 +3,13 @@
 /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_rear_link.STL
 /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_right_link.STL
 /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.STL
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/can.STL
+>>>>>>> 68b074e (Initial commit)
+>>>>>>> 81012a5 (Initial commit)
 /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/imu_link.STL
 /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot.urdf
 /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot.urdf.xacro

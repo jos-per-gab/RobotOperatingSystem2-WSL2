@@ -1,0 +1,23 @@
+[0.507s] Invoking command in '/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/src/bumperbot_py_examples': PS1=(lazywsl) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/build/bumperbot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_examples build --build-base /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/build/bumperbot_py_examples/build install --record /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/build/bumperbot_py_examples/install.log --single-version-externally-managed install_data
+[0.696s] running egg_info
+[0.696s] writing ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/PKG-INFO
+[0.696s] writing dependency_links to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/dependency_links.txt
+[0.697s] writing entry points to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/entry_points.txt
+[0.697s] writing requirements to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/requires.txt
+[0.697s] writing top-level names to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/top_level.txt
+[0.698s] reading manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[0.699s] writing manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[0.699s] running build
+[0.699s] running build_py
+[0.699s] running install
+[0.700s] running install_lib
+[0.701s] running install_data
+[0.701s] running install_egg_info
+[0.703s] removing '/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[0.703s] Copying ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info to /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info
+[0.704s] running install_scripts
+[0.720s] Installing simple_parameter script to /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[0.720s] Installing simple_publisher script to /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[0.720s] Installing simple_subscriber script to /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[0.721s] writing list of installed files to '/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/build/bumperbot_py_examples/install.log'
+[0.744s] Invoked command in '/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/src/bumperbot_py_examples' returned '0': PS1=(lazywsl) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/build/bumperbot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_examples build --build-base /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/build/bumperbot_py_examples/build install --record /home/lazywsl/RobotOperatingSystem2-WSL2/ROS2/bumpberbot_ws/build/bumperbot_py_examples/install.log --single-version-externally-managed install_data
