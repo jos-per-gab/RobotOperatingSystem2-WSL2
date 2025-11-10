@@ -1,0 +1,48 @@
+[0.016s] Invoking command in '/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(lazywsl) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description -DCMAKE_INSTALL_PREFIX=/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description
+[0.207s] -- The C compiler identification is GNU 11.4.0
+[0.498s] -- The CXX compiler identification is GNU 11.4.0
+[0.672s] -- Detecting C compiler ABI info
+[0.793s] -- Detecting C compiler ABI info - done
+[0.798s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.799s] -- Detecting C compile features
+[0.800s] -- Detecting C compile features - done
+[0.803s] -- Detecting CXX compiler ABI info
+[0.923s] -- Detecting CXX compiler ABI info - done
+[0.929s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.929s] -- Detecting CXX compile features
+[0.929s] -- Detecting CXX compile features - done
+[0.942s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.085s] -- Found Python3: /home/lazywsl/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.178s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.284s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.284s] -- Configured cppcheck include dirs: 
+[1.284s] -- Configured cppcheck exclude dirs and/or files: 
+[1.288s] -- Added test 'lint_cmake' to check CMake code style
+[1.297s] -- Added test 'uncrustify' to check C / C++ code style
+[1.297s] -- Configured uncrustify additional arguments: 
+[1.300s] -- Added test 'xmllint' to check XML markup files
+[1.302s] -- Configuring done
+[1.309s] -- Generating done
+[1.311s] -- Build files have been written to: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description
+[1.317s] Invoked command in '/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(lazywsl) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description -DCMAKE_INSTALL_PREFIX=/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description
+[1.319s] Invoking command in '/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(lazywsl) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description -- -j12 -l12
+[1.358s] Invoked command in '/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(lazywsl) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description -- -j12 -l12
+[1.371s] Invoking command in '/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(lazywsl) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description
+[1.379s] -- Install configuration: ""
+[1.379s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/meshes
+[1.381s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/meshes/caster_front_link.STL
+[1.382s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/meshes/base_link.STL
+[1.405s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/meshes/caster_rear_link.STL
+[1.406s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/meshes/wheel_right_link.STL
+[1.408s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.STL
+[1.410s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/meshes/imu_link.STL
+[1.410s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/urdf
+[1.411s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot.urdf
+[1.412s] -- Installing: /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot.urdf.xacro
+[1.412s] [31mCMake Error at cmake_install.cmake:46 (file):
+[1.412s]   file INSTALL cannot find
+[1.412s]   "/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/launch":
+[1.412s]   No such file or directory.
+[1.413s] 
+[1.413s] [0m
+[1.415s] Invoked command in '/home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(lazywsl) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/lazywsl/RobotOperatingSystem2/ROS2/bumpberbot_ws/src/bumperbot_description/build/bumperbot_description
