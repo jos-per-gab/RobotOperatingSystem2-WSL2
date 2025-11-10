@@ -10,15 +10,7 @@ Panels:
         - /TF1/Frames1
         - /RobotModel1
       Splitter Ratio: 0.5
-<<<<<<< HEAD
     Tree Height: 260
-=======
-<<<<<<< HEAD
-    Tree Height: 260
-=======
-    Tree Height: 354
->>>>>>> 68b074e (Initial commit)
->>>>>>> 81012a5 (Initial commit)
   - Class: rviz_common/Selection
     Name: Selection
   - Class: rviz_common/Tool Properties
@@ -62,10 +54,6 @@ Visualization Manager:
       Enabled: true
       Frame Timeout: 15
       Frames:
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 81012a5 (Initial commit)
         All Enabled: true
         base_footprint:
           Value: true
@@ -79,26 +67,6 @@ Visualization Manager:
           Value: true
         wheel_right_link:
           Value: true
-<<<<<<< HEAD
-=======
-=======
-        All Enabled: false
-        base_footprint:
-          Value: false
-        base_link:
-          Value: false
-        can_link:
-          Value: true
-        caster_front_link:
-          Value: false
-        caster_rear_link:
-          Value: false
-        wheel_left_link:
-          Value: false
-        wheel_right_link:
-          Value: false
->>>>>>> 68b074e (Initial commit)
->>>>>>> 81012a5 (Initial commit)
       Marker Scale: 1
       Name: TF
       Show Arrows: true
@@ -107,14 +75,6 @@ Visualization Manager:
       Tree:
         base_footprint:
           base_link:
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-            can_link:
-              {}
->>>>>>> 68b074e (Initial commit)
->>>>>>> 81012a5 (Initial commit)
             caster_front_link:
               {}
             caster_rear_link:
@@ -152,17 +112,6 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        can_link:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
->>>>>>> 68b074e (Initial commit)
->>>>>>> 81012a5 (Initial commit)
         caster_front_link:
           Alpha: 1
           Show Axes: false
@@ -237,15 +186,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz_default_plugins/Orbit
-<<<<<<< HEAD
       Distance: 1.6701574325561523
-=======
-<<<<<<< HEAD
-      Distance: 1.6701574325561523
-=======
-      Distance: 0.8277566432952881
->>>>>>> 68b074e (Initial commit)
->>>>>>> 81012a5 (Initial commit)
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -260,44 +201,18 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 81012a5 (Initial commit)
       Pitch: 0.3203981816768646
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
       Yaw: 0.6953980922698975
-<<<<<<< HEAD
-=======
-=======
-      Pitch: 1.5697963237762451
-      Target Frame: <Fixed Frame>
-      Value: Orbit (rviz)
-      Yaw: 3.2235782146453857
->>>>>>> 68b074e (Initial commit)
->>>>>>> 81012a5 (Initial commit)
     Saved: ~
 Window Geometry:
   Displays:
     collapsed: false
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 81012a5 (Initial commit)
   Height: 551
   Hide Left Dock: false
   Hide Right Dock: false
   QMainWindow State: 000000ff00000000fd0000000400000000000001560000018dfc0200000008fb0000001200530065006c0065006300740069006f006e00000001e10000009b0000005c00fffffffb0000001e0054006f006f006c002000500072006f007000650072007400690065007302000001ed000001df00000185000000a3fb000000120056006900650077007300200054006f006f02000001df000002110000018500000122fb000000200054006f006f006c002000500072006f0070006500720074006900650073003203000002880000011d000002210000017afb000000100044006900730070006c006100790073010000003b0000018d000000c700fffffffb0000002000730065006c0065006300740069006f006e00200062007500660066006500720200000138000000aa0000023a00000294fb00000014005700690064006500530074006500720065006f02000000e6000000d2000003ee0000030bfb0000000c004b0069006e0065006300740200000186000001060000030c00000261000000010000010f0000018dfc0200000003fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730100000041000000780000000000000000fb0000000a00560069006500770073010000003b0000018d000000a000fffffffb0000001200530065006c0065006300740069006f006e010000025a000000b200000000000000000000000200000490000000a9fc0100000001fb0000000a00560069006500770073030000004e00000080000002e10000019700000003000003c50000003efc0100000002fb0000000800540069006d00650100000000000003c50000025300fffffffb0000000800540069006d00650100000000000004500000000000000000000001540000018d00000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730100000000ffffffff0000000000000000
-<<<<<<< HEAD
-=======
-=======
-  Height: 645
-  Hide Left Dock: false
-  Hide Right Dock: false
-  QMainWindow State: 000000ff00000000fd000000040000000000000156000001ebfc0200000008fb0000001200530065006c0065006300740069006f006e00000001e10000009b0000005c00fffffffb0000001e0054006f006f006c002000500072006f007000650072007400690065007302000001ed000001df00000185000000a3fb000000120056006900650077007300200054006f006f02000001df000002110000018500000122fb000000200054006f006f006c002000500072006f0070006500720074006900650073003203000002880000011d000002210000017afb000000100044006900730070006c006100790073010000003b000001eb000000c700fffffffb0000002000730065006c0065006300740069006f006e00200062007500660066006500720200000138000000aa0000023a00000294fb00000014005700690064006500530074006500720065006f02000000e6000000d2000003ee0000030bfb0000000c004b0069006e0065006300740200000186000001060000030c00000261000000010000010f000001ebfc0200000003fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730100000041000000780000000000000000fb0000000a00560069006500770073010000003b000001eb000000a000fffffffb0000001200530065006c0065006300740069006f006e010000025a000000b200000000000000000000000200000490000000a9fc0100000001fb0000000a00560069006500770073030000004e00000080000002e10000019700000003000004330000003efc0100000002fb0000000800540069006d00650100000000000004330000025300fffffffb0000000800540069006d00650100000000000004500000000000000000000001c2000001eb00000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730100000000ffffffff0000000000000000
->>>>>>> 68b074e (Initial commit)
->>>>>>> 81012a5 (Initial commit)
   Selection:
     collapsed: false
   Time:
@@ -306,18 +221,6 @@ Window Geometry:
     collapsed: false
   Views:
     collapsed: false
-<<<<<<< HEAD
   Width: 965
   X: 1935
   Y: 294
-=======
-<<<<<<< HEAD
-  Width: 965
-  X: 1935
-  Y: 294
-=======
-  Width: 1075
-  X: 444
-  Y: 480
->>>>>>> 68b074e (Initial commit)
->>>>>>> 81012a5 (Initial commit)
